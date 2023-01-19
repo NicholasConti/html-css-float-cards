@@ -41,7 +41,7 @@ h1{
 }
 
 .boximage{
-    width: 25%;
+    width: 30%;
     float: left;
 }
 
@@ -55,8 +55,8 @@ h1{
     padding: 10px;
     color: white;
     float: left;
-    width: 75%;
-    line-height: 20px;
+    width: 70%;
+    line-height: 25px;
 }
 
 .boxcontent>p{
