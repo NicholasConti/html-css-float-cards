@@ -39,3 +39,19 @@ h1{
     height: 100px;
     margin: 25px;
 }
+
+.boximage{
+    width: 25%;
+    border: 2px solid yellow;
+    float: left;
+}
+
+.img{
+    width: 100%;
+    height: 100%;
+}
+
+.boxcontent{
+    float: left;
+    width: 75%;
+}
